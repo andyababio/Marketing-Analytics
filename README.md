@@ -38,14 +38,18 @@ Assessing campaign reach and revenue performance across countries and markets to
 
 <h2 align="center">Campaign Performance</h2>
 
-1. **Overview**  
-   - Across all campaigns, marketing efforts generated 1,189 impressions, 969 clicks, 770 sign-ups, and 672 conversions, showing strong progression through the funnel with limited drop-off. Total marketing spend was $16.73K, generating $29.99K in revenue; an absolute uplift of $13.26K, representing an approximate 79% increase over cost, indicating strong overall campaign efficiency and profitability.
 
-2. Monthly Revenue vs. Cost Analysis Across All Campaigns for 2024  
-   - Across all campaigns, revenue consistently outperformed cost every month, indicating sustained marketing profitability throughout the year. Peak performance occurred in May, where the highest revenue ($3.76K) was achieved alongside proportionally higher spend, suggesting effective scaling.
-   - While revenue consistently exceeded costs throughout the year, the efficiency of spend varied by month. December recorded the lowest ROAS at 1.55, indicating the least return per dollar spent, whereas August achieved the highest ROAS of 1.85, reflecting the most efficient campaign performance during the year. This highlights the need to investigate factors driving lower efficiency in certain months, despite overall profitability.
+| Overview |
+|---------|
+| Across all campaigns, marketing efforts generated 1,189 impressions, 969 clicks, 770 sign-ups, and 672 conversions, showing strong progression through the funnel with limited drop-off. Total marketing spend was $16.73K, generating $29.99K in revenue; an absolute uplift of $13.26K, representing an approximate 79% increase over cost, indicating strong overall campaign efficiency and profitability. |
 
-3. Campaign Profitability Analysis: Revenue vs. Cost
+  <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+1. Monthly Revenue vs. Cost Analysis Across All Campaigns for 2024
+   - Across all campaigns, revenue consistently outperformed cost every month, indicating sustained marketing profitability throughout the year. Peak performance occurred in May, where the highest revenue ($3.76K) was achieved alongside proportionally higher spend, suggesting effective scaling. 
+   - While revenue consistently exceeded costs throughout the year, the efficiency of spend varied by month. December recorded the lowest ROAS at 1.55, indicating the least return per dollar spent, whereas August achieved the highest ROAS of 1.85, reflecting the most efficient campaign performance during the year. This highlights the need to investigate factors driving lower efficiency in certain months, despite overall profitability. 
+
+2. Campaign Profitability Analysis: Revenue vs. Cost
    - Data showed the All Year Awareness campaign emerged as the most profitable, generating $23.35K in revenue from a $12.22K spend, with a ROAS of 1.91. In contrast, the Christmas Campaign had the lowest ROAS at 1.27, suggesting that while profitable, its efficiency per dollar spent was comparatively lower.
    - Its important to note that even amongst the short duration campaigns (which span for a month), the Christmas campaign returned the least, with Summer and New Year both exceeding a ROAS of 1.5.
 
