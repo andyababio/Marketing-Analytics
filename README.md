@@ -43,6 +43,11 @@ Assessing campaign reach and revenue performance across countries and markets to
 |---------|
 | Across all campaigns, marketing efforts generated 1,189 impressions, 969 clicks, 770 sign-ups, and 672 conversions, showing strong progression through the funnel with limited drop-off. Total marketing spend was $16.73K, generating $29.99K in revenue; an absolute uplift of $13.26K, representing an approximate 79% increase over cost, indicating strong overall campaign efficiency and profitability. |
 
+<p align="center">
+   <img src="Images/Rev_vs_cost_across.png" 
+        alt="Dashboard" width="40%" />
+</p>
+
   <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 1. Monthly Revenue vs. Cost Analysis Across All Campaigns for 2024
