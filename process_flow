@@ -1,0 +1,38 @@
+## 🔄 Process Flow
+
+◼ Data Preparation (Excel):
+ - The raw retail data was cleaned and transformed in Microsoft Excel.  
+
+◼ Data Modeling (Power BI):
+ - The cleaned datasets were imported into Power BI for data modeling.
+
+◼ Data Visualization & Analysis:
+ - I then developed interactive visuals and KPIs in Power BI using **DAX** to highlight trends, relationships, and performance metrics.
+
+---
+
+## 🗂️ Dataset Overview
+
+🟥 Fact Table: Transactions
+ - Transaction_ID – Unique identifier for each transaction
+ - Cust_ID – Links each transaction to a specific customer
+ - Tran_Date – Transaction date (used to connect with the Date table)
+ - Prod_Cat_Code / Prod_Sub_Cat_Code – Identify product category and subcategory
+ - Qty, Rate, Tax, Total_Amt – Metrics for financial calculations
+ - Profit_Margin_%, Profit – Indicators of product-level profitability
+ - Store_Type – Channel or store type (e.g., online, in-store)
+ - Transaction_Status – Indicates sale or return
+
+🟥 Dimension Table: Customer
+ - Customer_ID, DOB, Gender, City_Code
+
+🟥 Dimension Table: Product_Category
+ - Prod_Cat_Code, Prod_Cat, Prod_Sub_Cat_Code, Prod_SubCat, Profit_Margin_%
+
+🟥 Dimension Table: Date_Table
+ - Date, Month, Quarter, Year, MonthNumber, DayOfWeek
+
+Relevant relationships were then established between the above table to produce the following data model:
+ <p align="center">
+ <img alt="Data Model" src="Data_model_marketing_analytics.png" width="60%" />
+ </p>
