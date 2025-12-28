@@ -13,24 +13,15 @@
 
 ## 🗂️ Dataset Overview
 
-🟥 Fact Table: Transactions
- - Transaction_ID – Unique identifier for each transaction
- - Cust_ID – Links each transaction to a specific customer
- - Tran_Date – Transaction date (used to connect with the Date table)
- - Prod_Cat_Code / Prod_Sub_Cat_Code – Identify product category and subcategory
- - Qty, Rate, Tax, Total_Amt – Metrics for financial calculations
- - Profit_Margin_%, Profit – Indicators of product-level profitability
- - Store_Type – Channel or store type (e.g., online, in-store)
- - Transaction_Status – Indicates sale or return
+🟥 Fact Table:
+ - fact_marketing_events: event_id, delete, event_date, campaign_id (FK), user_id (FK), channel_id (FK), funnel_stage_id (FK), event_type_id (FK), cost_usd, revenue
 
-🟥 Dimension Table: Customer
- - Customer_ID, DOB, Gender, City_Code
-
-🟥 Dimension Table: Product_Category
- - Prod_Cat_Code, Prod_Cat, Prod_Sub_Cat_Code, Prod_SubCat, Profit_Margin_%
-
-🟥 Dimension Table: Date_Table
- - Date, Month, Quarter, Year, MonthNumber, DayOfWeek
+🟥 Dimension Tables:
+ - dim_campaign: campaign_id, campaign_name, campaign_objective, start_date, end_date, budget_usd, target_market, campaign_type, primary_kpi
+ - dim_user: user_id, first_name, last_name, full_name, email, gender, country
+ - dim_channel: channel_id, channel_name, channel_type
+ - dim_funnel_stage: funnel_stage_id, funnel_stage_name, description
+ - dim_event_type: event_type_id, event_type_name, category, description
 
 Relevant relationships were then established between the above table to produce the following data model:
  <p align="center">
