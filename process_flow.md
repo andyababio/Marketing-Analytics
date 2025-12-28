@@ -25,5 +25,5 @@
 
 Relevant relationships were then established between the above table to produce the following data model:
  <p align="center">
- <img alt="Data Model" src="Data_model_marketing_analytics.png" width="60%" />
+ <img alt="Data Model" src="Images/Data_model_marketing_analytics.png" width="60%" />
  </p>
