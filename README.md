@@ -181,8 +181,8 @@ Let me know if you'd like this formatted as a standalone document or integrated 
 
 
 
+<h1 align="center">Process Flow</h1>
 
-
-<h1 align="center">Process Flow and Code (technical) </h1>
+Have a look at the process flow and futher details [here](https://github.com/andyababio/Marketing-Analytics/blob/main/process_flow)
 
 
