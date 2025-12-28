@@ -1,6 +1,6 @@
 <p align="center">
-   <img src="Images/IPSL-pay_logo_new_new.png" 
-        alt="logo" width="60%" />
+   <img src="Images/IPSL-pay_logo_new_new.jpeg" 
+        alt="logo" width="40%" />
 </p>
 
 <h1 align="center">Marketing Analytics</h1>
