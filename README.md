@@ -84,6 +84,35 @@ Assessing campaign reach and revenue performance across countries and markets to
 </p> 
 
 
+1. All Year Campaign
+   - The all-year campaign delivers consistent sales throughout the year, even as impressions and clicks fluctuate
+       - Feb–Apr show stronger engagement, driving higher sales.
+       - May stands out with low reach but strong sales, indicating high conversion efficiency.
+       - Jul–Sep maintain stable performance, reflecting a healthy funnel.
+       - Jan and Dec record the lowest activity, likely due to seasonal effects.
+       - Overall, the campaign shows strong conversion quality and resilience across months.
+
+3. Summer Campaign
+   - The summer campaign shows compact but effective performance within a short run period.
+       - Week 2 is the strongest, matching clicks with sales, indicating excellent conversion.
+       - Weeks 4 and 5 maintain solid sales despite lower impressions, suggesting efficient targeting.
+       - Week 3 records the highest impressions but weaker sales, pointing to softer conversion quality.
+       - Overall, the campaign demonstrates strong week-to-week efficiency, with performance driven more by conversion effectiveness than reach.
+
+4. New Year Campaign
+   - The campaign shows strong conversion efficiency despite low impressions.
+       - Week 1 and Week 4 stand out, where sales exceed or closely match clicks, indicating high purchase intent.
+       - Week 3 records the highest click volume but weaker sales conversion, suggesting drop-off post-engagement.
+       - Week 5 maintains solid sales with minimal impressions, highlighting late-campaign efficiency.
+       - Overall, the New Year campaign performs best in conversion quality rather than volume, making it effective even with limited reach.
+
+5. Christmas Campaign
+   - Performance is varies across the campaign period.
+       - Week 2 delivers the strongest results, with high sales relative to clicks and impressions.
+       - Week 3 shows weaker efficiency, where clicks did not translate well into sales.
+       - Weeks 5–6 achieve reasonable sales despite low traffic, indicating late-stage purchase intent.
+       - Overall, the campaign benefits from strong early momentum, followed by more selective but conversion-driven activity toward the end.
+
 
 
 
