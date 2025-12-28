@@ -60,12 +60,26 @@ Assessing campaign reach and revenue performance across countries and markets to
 
 
 
+<h2 align="center">Funnel & Acquisition Effectiveness</h2>
 
 
+| Overview |
+|---------|
+| Overall funnel performance indicates efficient acquisition and strong revenue recovery. A CAC of $21.70 suggests that customer acquisition is being achieved at a controlled cost, while a ROAS of 1.79 confirms that marketing spend is generating positive returns, with revenue comfortably exceeding costs. Engagement and conversion signals remain healthy, with 883 completed sales reflecting effective movement through the funnel. While the CTR of 0.81% points to moderate ad engagement, the strong downstream performance suggests that users who do engage are high-quality and more likely to convert, indicating good audience targeting and funnel efficiency. |
 
+<h3 align="center">All Year Campaign</h3>
+<p align="center">
+   <img src="Images/All_year_camp_kpis.png" 
+        alt="Dashboard" width="60%" />
+</p>
 
-
-
+<h4 align="center">Summer | New Year | Christmas</h4>
+<p align="center">
+      <img src="Images/Funnel and Channel.png" 
+           alt="Price" width="45%" />
+      <img src="Images/Market_performance.png" 
+           alt="Market" width="45%" />
+</p> 
 
 
 
