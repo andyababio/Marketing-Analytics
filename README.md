@@ -1,6 +1,8 @@
-<div align="center">
-  <img width="320px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
-</div>
+<p align="center">
+   <img src="Images/IPSL-pay_logo_new_new.png" 
+        alt="logo" width="60%" />
+</p>
+
 <h1 align="center">Marketing Analytics</h1>
 
 
