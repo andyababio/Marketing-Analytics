@@ -75,10 +75,12 @@ Assessing campaign reach and revenue performance across countries and markets to
 
 <h4 align="center">Summer | New Year | Christmas</h4>
 <p align="center">
-      <img src="Images/Funnel and Channel.png" 
-           alt="Price" width="45%" />
-      <img src="Images/Market_performance.png" 
-           alt="Market" width="45%" />
+      <img src="Images/Summer.png" 
+           alt="Price" width="30%" />
+      <img src="Images/New_year.png" 
+           alt="Market" width="30%" />
+      <img src="Images/Christmas.png" 
+           alt="Market" width="30%" />  
 </p> 
 
 
