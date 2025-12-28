@@ -120,16 +120,31 @@ Assessing campaign reach and revenue performance across countries and markets to
         alt="Dashboard" width="60%" />
 </p>
 
- - Google Search delivers the strongest return, with the highest ROAS (2.34), though it comes at the highest CAC ($26.80), indicating high-intent but costly acquisition.
+- Google Search delivers the strongest return, with the highest ROAS (2.34), though it comes at the highest CAC ($26.80), indicating high-intent but costly acquisition.
 - SMS Marketing and TikTok Ads strike the best balance, combining strong ROAS (2.17 and 1.94) with lower CACs ($19.80 and $18.40).
 - Facebook Ads perform efficiently, showing a high CTR (0.92) alongside a solid ROAS (1.86), suggesting strong engagement and conversion potential.
 - Google Display Network achieves the highest CTR (0.94) but a relatively high CAC, implying strong visibility with weaker cost efficiency.
 - Affiliate Partners and Instagram Ads underperform comparatively, with lower ROAS and CTR, indicating opportunities for optimization or budget reallocation.
 
 
+<h2 align="center">Market Performance</h2>
 
 
+| Overview |
+|---------|
+| Overall market performance highlights a well-targeted and effective campaign strategy. The predominance of male users in Ghana as the leading demographic indicates strong market penetration within key audience segments. Total reach of 949 users demonstrates meaningful audience engagement, while a conversion rate of 0.87 reflects the campaigns’ ability to efficiently move users from awareness to action. These metrics suggest that marketing efforts are resonating with the intended audience, translating engagement into tangible results and signaling strong regional performance. |
 
+<h3 align="center">Country Performance</h3>
+<p align="center">
+   <img src="Images/Country_performance.png" 
+        alt="Dashboard" width="60%" />
+</p>
+
+- Ghana leads across all engagement and conversion metrics, with the highest impressions (267) and sales (200), indicating strong market penetration and effective campaign targeting.
+- Nigeria performs closely behind, generating 260 impressions and 184 sales, suggesting a similarly high-interest audience but slightly lower conversion efficiency.
+- South Africa and Kenya demonstrate balanced performance, with impressions ranging from 210–236 and sales between 166–176, reflecting steady engagement and moderate acquisition cost efficiency.
+- Egypt shows the lowest total engagement (216 impressions) and sales (157), indicating potential for targeted optimizations to improve reach and conversion.
+- Overall, campaigns are most effective in Ghana and Nigeria, highlighting these regions as priority markets, while South Africa, Kenya, and Egypt offer room for growth and focused campaign adjustments.
 
 
 <h1 align="center">Process Flow and Code (technical) </h1>
