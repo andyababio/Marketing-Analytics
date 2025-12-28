@@ -114,7 +114,17 @@ Assessing campaign reach and revenue performance across countries and markets to
        - Overall, the campaign benefits from strong early momentum, followed by more selective but conversion-driven activity toward the end.
 
 
+<h3 align="center">Funnel Effectiveness</h3>
+<p align="center">
+   <img src="Images/Roas_ctr_cac.png" 
+        alt="Dashboard" width="60%" />
+</p>
 
+ - Google Search delivers the strongest return, with the highest ROAS (2.34), though it comes at the highest CAC ($26.80), indicating high-intent but costly acquisition.
+- SMS Marketing and TikTok Ads strike the best balance, combining strong ROAS (2.17 and 1.94) with lower CACs ($19.80 and $18.40).
+- Facebook Ads perform efficiently, showing a high CTR (0.92) alongside a solid ROAS (1.86), suggesting strong engagement and conversion potential.
+- Google Display Network achieves the highest CTR (0.94) but a relatively high CAC, implying strong visibility with weaker cost efficiency.
+- Affiliate Partners and Instagram Ads underperform comparatively, with lower ROAS and CTR, indicating opportunities for optimization or budget reallocation.
 
 
 
