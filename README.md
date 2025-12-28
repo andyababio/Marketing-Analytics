@@ -146,5 +146,43 @@ Assessing campaign reach and revenue performance across countries and markets to
 - Egypt shows the lowest total engagement (216 impressions) and sales (157), indicating potential for targeted optimizations to improve reach and conversion.
 - Overall, campaigns are most effective in Ghana and Nigeria, highlighting these regions as priority markets, while South Africa, Kenya, and Egypt offer room for growth and focused campaign adjustments.
 
+<h1 align="center">Recommendations</h1>
+
+Based on the insights uncovered in the marketing analytics report for IPSL-PAY, here are actionable recommendations to optimize marketing spend, improve funnel efficiency, and drive growth across key markets.
+
+**Campaign Performance**
+
+1.  **Replicate and scale the efficiency of the All Year Awareness campaign.** This campaign demonstrates the highest profitability (ROAS: 1.91) and consistent sales, indicating a sustainable growth model. Allocate additional budget to this campaign's most effective channels and messaging while exploring its framework for other product launches.
+2.  **Improve the efficiency of short-term seasonal campaigns, particularly the Christmas campaign.** With the lowest ROAS (1.27) among all campaigns, the Christmas promotion requires a review of its targeting, creative assets, and promotional offers. Apply tactics from the higher-performing Summer and New Year campaigns, such as tighter audience segmentation and conversion-focused landing pages.
+3.  **Conduct a deep-dive analysis into monthly ROAS fluctuations to stabilize performance.** Investigate external factors (e.g., market events, competitor activity) and internal factors (e.g., ad creative fatigue, bidding strategies) that caused lower efficiency in December (ROAS: 1.55) to inform future budget pacing and campaign planning.
+
+**Funnel & Acquisition Effectiveness**
+
+1.  **Increase budget allocation to high-intent, high-efficiency channels.**
+    *   Prioritize **Google Search**, **SMS Marketing**, and **TikTok Ads**, which combine strong ROAS (>1.94) with effective cost management.
+    *   Maintain **Facebook Ads** for its strong engagement (CTR: 0.92%) and solid returns, but test strategies to lower its CAC further.
+2.  **Optimize or reallocate spend from underperforming channels.**
+    *   Review the strategy for **Affiliate Partners** and **Instagram Ads**, which showed lower ROAS and CTR. Consider pausing or restructuring these partnerships and ad sets unless A/B testing identifies a significant performance improvement.
+    *   For the **Google Display Network**, which has high visibility (CTR: 0.94%) but a high CAC, refine audience targeting to attract more conversion-ready users and improve cost efficiency.
+3.  **Leverage channel-specific insights to tailor campaign creative and landing pages.**
+    *   For **Google Search**, ensure ad copy and landing pages are highly relevant to high-intent financial queries to justify the higher CAC.
+    *   For **SMS Marketing** and **TikTok**, continue using clear, direct calls-to-action that have driven their strong conversion efficiency.
+
+**Market Performance**
+
+1.  **Double down on high-performing markets to maximize share.**
+    *   **Ghana** and **Nigeria** are clear leaders in engagement and sales. Increase market-specific budget and develop localized campaigns to deepen penetration and defend market leadership.
+2.  **Develop targeted initiatives for growth markets.**
+    *   For **South Africa** and **Kenya**, which show steady performance, conduct audience research to identify untapped segments or product needs that could boost conversion rates.
+    *   Launch a test campaign in **Egypt**—the lowest-performing market—focusing on localized messaging and channel mix optimization to diagnose barriers to engagement and improve its performance.
+3.  **Use demographic insights to refine targeting.** The strong performance among male users in Ghana suggests a core customer profile. Develop lookalike audiences in other markets based on this profile while simultaneously testing creative and offers designed to attract and convert female users to expand the total addressable market.
+
+Let me know if you'd like this formatted as a standalone document or integrated into a specific section of your report.
+
+
+
+
 
 <h1 align="center">Process Flow and Code (technical) </h1>
+
+
